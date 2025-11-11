@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Arju Mani Akter</h1>
+<img src="https://media.licdn.com/dms/image/v2/D4E16AQGUr9DRBuusOQ/profile-displaybackgroundimage-shrink_350_1400/B4EZoxZvT3IIAY-/0/1761765424421?e=1764201600&v=beta&t=LFlNXJXyFHyGygKYEz_UyEVPtQLakQiCF94I-ja_3sg"
 <h3 align="center">I am a professional Web Designer and Web Developer specializing in WordPress . I build modern, responsive, and high performing websites designed to deliver excellence, innovation, and complete client satisfaction.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arjumani87&label=Profile%20views&color=0e75b6&style=flat" alt="arjumani87" /> </p>
